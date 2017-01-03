@@ -90,6 +90,7 @@ extension UITextField: AdaptableTextContainer {
 
 }
 
+/*
 extension UIButton: AdaptableTextContainer {
 
     /// Adapt `attributedTitle`, for all control states, to the specified trait collection.
@@ -109,7 +110,9 @@ extension UIButton: AdaptableTextContainer {
     }
 
 }
-
+*/
+ 
+ 
 extension UISegmentedControl: AdaptableTextContainer {
 
     // `UISegmentedControl` has terrible generics ([NSObject: AnyObject]?) on

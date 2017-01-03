@@ -425,6 +425,7 @@ import BonMot
 
     }
 
+    /*
     extension UIButton {
 
         @nonobjc final func attributedTitle(for state: UIControlState) -> NSAttributedString? {
@@ -432,6 +433,7 @@ import BonMot
         }
 
     }
+ */
 
     extension UIViewController {
 

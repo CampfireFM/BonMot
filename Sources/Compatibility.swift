@@ -404,6 +404,7 @@
 
         }
 
+    /*
         extension UIButton {
 
             @nonobjc final func setAttributedTitle(title: NSAttributedString?, for state: UIControlState) {
@@ -411,6 +412,7 @@
             }
 
         }
+ */
     #endif
 
     #if os(iOS) || os(watchOS) || os(tvOS)

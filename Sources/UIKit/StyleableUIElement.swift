@@ -158,6 +158,7 @@ extension UITextView: StyleableUIElement {
 
 }
 
+/*
 extension UIButton: StyleableUIElement {
 
     /// The name of a style in the global `NamedStyles` registry. The getter
@@ -192,6 +193,7 @@ extension UIButton: StyleableUIElement {
     }
 
 }
+ */
 
 /// Helper for the bonMotStyle associated objects.
 private var containerHandle: UInt8 = 0
